@@ -1,6 +1,5 @@
 # Base prompt for Messy in the city (dark setting)
 
-Gen
 Generate an anime-style illustration in 3:2 landscape format: Messy Virgo, exactly the same character and face as in the reference file. Keep all facial features, proportions, and the general look of the hair unchanged and consistent.
 ​
 
