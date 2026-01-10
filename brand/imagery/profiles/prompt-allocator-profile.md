@@ -1,3 +1,5 @@
+# Prompt for Allocator Profile
+
 Generate an anime-style illustration in 3:2 landscape format: Messy Virgo, exactly the same character and face as in the reference file. Keep all facial features, proportions, and the general look of the hair unchanged and consistent.
 ​
 
@@ -16,7 +18,6 @@ Messy wears a polished, understated, and elegant outfit that evokes a steward of
 Her expression: composed, thoughtful, and slightly detached from the immediate price action, with a relaxed gaze that looks past the screen or over the city rather than locked on a single chart; her gentle, confident half-smile suggests she is thinking in multi-year regimes, risk budgets, and manager selection, embodying a long-term allocator mindset instead of a trade-by-trade mentality.
 ​
 
-In her hands she holds / she is doing: a sleek tablet showing a very simple, high-level $MESSY exposure or allocation view—one or two large shapes (like a pie slice or bar) and maybe a single time-horizon indicator—no candlestick charts, no trade tickets; she might be calmly swiping between high-level views or tapping once to rebalance.
-​
+She presents the viewer a sleek tablet screen that is clearly visible. It shows a very simple, high-level crypto allocation / funds view—one and maybe a single time-horizon indicator, with no candlestick charts and no trade tickets.
 
-Perspective: Half-figure to upper body (knees up) so that face is clearly visible. Cleanly rendered, highly detailed, slightly sexy, with a harmonious composition keeping Messy in focus and a dynamically chaotic but not distracting urban night background.
+Perspective: Half-figure to upper body (knees up) so that face is clearly visible. Body turned slightly to the right.Cleanly rendered, highly detailed, slightly sexy, with a harmonious composition keeping Messy in focus and a dynamically chaotic but not distracting urban night background.
