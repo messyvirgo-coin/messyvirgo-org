@@ -47,6 +47,10 @@ For details, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 This repo is **not investment advice** and is not intended to encourage trading. It exists to coordinate open, auditable collaboration around org-level artefacts and (where applicable) open-source components.
 
+## Vision & Mission
+
+For Messy Virgo’s long-term vision, market focus, mission, and investor elevator pitch, see [VISION_MISSION.md](./VISION_MISSION.md).
+
 ## Official links
 
 - **Website**: [messyvirgo.com](https://www.messyvirgo.com/)
