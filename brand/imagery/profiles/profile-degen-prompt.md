@@ -1,21 +1,35 @@
-# Prompt for Degen Profile
+# Prompt for Degen Profile: "The First-Time Degen"
 
 Generate an anime-style illustration in 3:2 landscape format: Messy Virgo, exactly the same character and face as in the reference file. Keep all facial features, proportions, and the general look of the hair unchanged and consistent.
-​
 
-Messy is standing centrally on a broad avenue of a large modern metropolis at night, reminiscent of New York’s Times Square or Broadway, with tall glass buildings, digital billboards, and city lights stretching into the distance.
-​
+## Scenery & Setting
 
-The overall scene is rather dark, with a poppy-punk mood and subtle neon colors in blue, pink, and violet, but not too bright. The background is partly photorealistic: wet asphalt reflecting neon lights, blurred yellow taxis, soft silhouettes of pedestrians, and big screens and signs creating a busy night-city atmosphere.
-​
+Messy is standing centrally in a **vibrant underground nightclub or electronic dance music venue** packed with energy—imagine a modern, high-ceiling warehouse club with pulsing neon lights, DJ booth elevated above the crowd, and throngs of young people dancing and celebrating around her. The air feels electric and alive.
 
-There are a few abstract charts and symbols for macroeconomics, trading and crypto (simple financial candlestick shapes, soft curves, percent or dollar signs) as partly drawn, partly holographic overlays fully but very sublte integrated into billboards, reflections, and city signage around her; not stand-alone / floating. They must be sparse and understated, not dense and dominant. Any stylized coin or token icon should be limited to clean, minimal $MESSY emblems only; do not show any other coins or logos at all. These macro/crypto hints may become slightly more visible and textured toward the edges of the scene, but overall they should stay light, minimal, and non-intrusive, so the image feels rich yet uncluttered while Messy remains the calm, harmonious focal point in the center.
+The overall scene is **dark at its core but electrified** with **poppy-punk neon colors in blue, pink, and violet**—neon tubes frame the ceiling, cast reflections on glossy floors, and backlight silhouettes of the dancing crowd. The background is **partly photorealistic**: a hazy, smoke-filled atmosphere catching neon glow, blurred dancing figures in motion, laser beams cutting through the darkness, and club signage or screens displaying abstract visuals.
 
-Messy wears a simple, modern streetwear outfit that clearly feels like a fresh but already slightly hooked crypto degen: a slightly oversized hoodie or loose street jacket over a plain top, combined with fitted jeans or a short skirt and comfortable sneakers. Her look is spontaneous and a bit messy, as if she rushed out the door not to miss a trade: a sleeve pushed up unevenly, hoodie strings not perfectly aligned, maybe a slightly crooked hem. Only one or two small accessories like a thin bracelet or tiny earrings; nothing high‑fashion, more everyday, slightly punky and impulsive rather than polished. A hint of sexyness surrounds her.
+Messy stands out as a calm, radiant presence in this chaotic party energy—her aura contrasts beautifully with the frenzy around her.
 
-Her expression: big, alert eyes with slightly widened pupils and a small, half‑open smile that mixes excitement with a hint of panic. Her eyebrows are gently raised, her forehead very lightly tense, and a soft blush on her cheeks shows she is fully inside the emotional “degen rush.” She clearly feels FOMO: fascinated by the glowing city and numbers around her and by the feeling of “I’m really about to ape now,” but also not entirely sure she has everything under control.
+## Crypto & Financial Overlays
 
-In her hands she holds a smartphone, gripped with both hands a little too tightly, close to her chest or just below her face. Almost no extra elements, no order books, no dense metrics – everything looks deliberately stripped‑down, almost gamified and inviting. The overall feel should be: “first real ape moment into $MESSY,” emotionally a bit chaotic, but visually clean, clear, and instantly readable.
-​
+There are a few **abstract chart hints** (clean candlestick silhouettes, simple trend lines) but they must be **100% diegetic**: appearing only on **existing club LED screens, projection mapping, or signage** in the environment. They should feel like part of the venue’s visuals, not added graphics.
 
-Perspective: Half-figure to upper body (knees up) so that face is clearly visible. Cleanly rendered, highly detailed, slightly sexy, with a harmonious composition keeping Messy in focus and a dynamically chaotic but not distracting urban night background.
+**Hard constraints**: no floating HUD overlays, no corner badges, no watermarks, no standalone currency symbols, and **no random logos/text sprinkled around**. If a token mark appears, limit it to **at most one subtle “MESSY” wordmark (no $ sign)** on an in-world screen/sign (small, non-dominant, slightly out of focus), and **do not show any other coins/logos**.
+
+## Messy's Appearance & Style
+
+Messy wears a **simple, modern streetwear outfit that clearly feels like a fresh but already slightly hooked crypto degen**: a slightly oversized hoodie or loose street jacket over a plain top, combined with fitted jeans or a short skirt and comfortable sneakers. Her look is spontaneous and a bit messy, as if she rushed out the door not to miss a trade: a sleeve pushed up unevenly, hoodie strings not perfectly aligned, maybe a slightly crooked hem.
+
+**Only one or two small accessories** like a thin bracelet or tiny earrings; nothing high-fashion, more everyday, slightly punky and impulsive rather than polished. A hint of sexiness surrounds her.
+
+## Messy's Expression & Body Language
+
+**Expression**: big, alert eyes with slightly widened pupils and a small, half-open smile that mixes excitement with urgency. **She looks directly at the viewer**, effectively saying "Look at this!", urging them to share in the opportunity. A soft blush on her cheeks shows she is fully inside the emotional **"degen rush"** and wants the viewer to ape in with her.
+
+**In her hands**: She holds her **smartphone out towards the viewer**, turning the screen to face them completely. She grips it with energy, showing off the screen which displays a **very simple, gamified trading interface or "pump" alert**. The screen is the focal point of her gesture, inviting the viewer into the action.
+
+## Visual Tone & Composition
+
+The overall feel should be: **"first real ape moment in the heat of nightlife,"** emotionally chaotic and thrilling, but visually clean, clear, and instantly readable. Messy is the island of calm wisdom in a sea of club chaos.
+
+**Perspective**: Half-figure to upper body (knees up) so that face is clearly visible. Cleanly rendered, highly detailed, slightly sexy, with a harmonious composition keeping Messy in focus and a dynamically chaotic but not distracting club atmosphere and dancing crowd in the background.

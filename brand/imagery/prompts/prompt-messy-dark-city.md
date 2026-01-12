@@ -7,7 +7,9 @@ Messy is standing centrally on a broad avenue of a large modern metropolis at ni
 ​
 The overall scene is rather dark, with a poppy-punk mood and subtle neon colors in blue, pink, and violet, but not too bright. The background is partly photorealistic: wet asphalt reflecting neon lights, blurred yellow taxis, soft silhouettes of pedestrians, and big screens and signs creating a busy night-city atmosphere.
 ​
-There are a few abstract charts and symbols for macroeconomics, trading and crypto (simple financial candlestick shapes, soft curves, percent or dollar signs) as partly drawn, partly holographic overlays fully but very sublte integrated into billboards, reflections, and city signage around her; not stand-alone / floating. They must be sparse and understated, not dense and dominant. Any stylized coin or token icon should be limited to clean, minimal $MESSY emblems only; do not show any other coins or logos at all. These macro/crypto hints may become slightly more visible and textured toward the edges of the scene, but overall they should stay light, minimal, and non-intrusive, so the image feels rich yet uncluttered while Messy remains the calm, harmonious focal point in the center.
+There are a few **abstract chart hints** (clean candlestick silhouettes, simple trend lines) but they must be **fully diegetic**: shown only on **real-world surfaces** like digital billboards, LED tickers, exchange screens, posters, or reflected signage. They should read as part of the city’s media environment, not as graphics added on top of the image.
+
+**Hard constraints**: no floating HUD overlays, no corner badges, no watermarks, no standalone currency symbols, and no random logos/text sprinkled around. If any token mark appears, limit it to **at most one subtle “MESSY” wordmark (no $ sign)** on a distant in-world screen (small, non-dominant, slightly out of focus), and **no other coins/logos**.
 ​
 Messy wears a simple, modern, elegant and slightly sexy outfit that fits a professional crypto trader in the city at night, for example an off-shoulder or slightly low-cut top with minimal accessories; no overly revealing clothing.
 ​
