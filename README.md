@@ -71,6 +71,11 @@ As this repo grows, a simple structure helps:
 - `brand/` — logos, brand guidelines, templates
 - `ops/` — runbooks, checklists, playbooks
 
+## Brand docs
+
+- [brand/TAGLINES.md](./brand/TAGLINES.md)
+- [brand/BRAND_GUIDELINES.md](./brand/BRAND_GUIDELINES.md)
+
 ## Decision making & governance
 
 We aim for transparent, documented decisions:

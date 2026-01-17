@@ -9,6 +9,11 @@ This repository may include Messy Virgo brand assets (e.g. logos, avatars/mascot
 - **No endorsement**: you may not imply Messy Virgo endorses you or your project.
 - **Trademarks**: names/logos may be protected by trademark law even if the files are publicly accessible.
 
+## Brand reference docs
+
+- [brand/TAGLINES.md](./brand/TAGLINES.md)
+- [brand/BRAND_GUIDELINES.md](./brand/BRAND_GUIDELINES.md)
+
 ## Allowed (typically OK)
 
 - Sharing images/docs for **non-commercial** community use with attribution
