@@ -10,6 +10,8 @@ The overall scene is rather dark, with a poppy-punk mood and subtle neon colors 
 
 **Hard constraints**: no floating HUD overlays without a visible source, no corner badges, no watermarks, no standalone currency symbols, and no random logos/text sprinkled around. If any token mark appears, limit it to **at most one subtle “MESSY” wordmark (no $ sign)** on an in-world screen (small, non-dominant), and **no other coins/logos**.
 ​
+All **candlestick charts must be financially correct and realistic**: green candles represent upward price movement (close higher than open) and red candles represent downward movement (close lower than open), with clearly defined bodies and wicks reflecting proper OHLC structure; no inverted color logic, no monochrome candles, no abstract styling, and no decorative or misleading visuals—the chart should read instantly as a real market chart to any trader.
+
 
 Messy wears a simple, modern, elegant and slightly sexy outfit that fits a professional crypto trader, e.g. an off-shoulder or slightly low-cut top with minimal accessories; no overly revealing clothing.
 ​

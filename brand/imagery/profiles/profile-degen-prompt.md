@@ -14,6 +14,8 @@ Messy stands out as a calm, radiant presence in this chaotic party energy—her 
 
 There are a few **abstract chart hints** (clean candlestick silhouettes, simple trend lines) but they must be **100% diegetic**: appearing only on **existing club LED screens, projection mapping, or signage** in the environment. They should feel like part of the venue’s visuals, not added graphics.
 
+All **candlestick charts must be financially correct and realistic**: green candles represent upward price movement (close higher than open) and red candles represent downward movement (close lower than open), with clearly defined bodies and wicks reflecting proper OHLC structure; no inverted color logic, no monochrome candles, no abstract styling, and no decorative or misleading visuals—the chart should read instantly as a real market chart to any trader.
+
 **Hard constraints**: no floating HUD overlays, no corner badges, no watermarks, no standalone currency symbols, and **no random logos/text sprinkled around**. If a token mark appears, limit it to **at most one subtle “MESSY” wordmark (no $ sign)** on an in-world screen/sign (small, non-dominant, slightly out of focus), and **do not show any other coins/logos**.
 
 ## Messy's Appearance & Style

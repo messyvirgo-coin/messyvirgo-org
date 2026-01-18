@@ -14,6 +14,8 @@ There are a few abstract charts for macroeconomics, trading, and crypto (simple 
 
 All visuals must be **physically anchored and logical**: charts must live on monitors, be projected from an actual console/projector, or appear as reflections on glass—**no free-floating panels** drifting in mid-air with no source. Keep the overlays sparse, subtle, and non-dominant so the scene feels rich yet uncluttered, with complexity increasing slightly toward the edges while Messy remains the calm, harmonious focal point.
 
+All **candlestick charts must be financially correct and realistic**: green candles represent upward price movement (close higher than open) and red candles represent downward movement (close lower than open), with clearly defined bodies and wicks reflecting proper OHLC structure; no inverted color logic, no monochrome candles, no abstract styling, and no decorative or misleading visuals—the chart should read instantly as a real market chart to any trader.
+
 Any stylized coin/token icon should be limited to a clean, minimal **MESSY emblem** (no “$” prefix, no currency marks).
 
 ## Messy's Appearance & Positioning

@@ -10,6 +10,8 @@ There are a few abstract chart hints for macroeconomics, trading, and crypto (cl
 
 Hard constraints for these elements: they must be **diegetic only** (on real screens, signage, printed posters, reflections, or projection mapping from a visible source). **No floating HUD overlays without a visible source**, no corner badges, no watermarks, no standalone currency icons, and no random logos/text sprinkled around.
 
+All **candlestick charts must be financially correct and realistic**: green candles represent upward price movement (close higher than open) and red candles represent downward movement (close lower than open), with clearly defined bodies and wicks reflecting proper OHLC structure; no inverted color logic, no monochrome candles, no abstract styling, and no decorative or misleading visuals—the chart should read instantly as a real market chart to any trader.
+
 Female variant:
 [MAIN CHARACTER] wears a simple, modern, elegant and slightly sexy outfit suitable for a professional in high-end finance/tech/crypto, such as an off-shoulder or slightly low-cut top or a sharp, stylish blazer with minimal accessories; no overly revealing clothing.
 

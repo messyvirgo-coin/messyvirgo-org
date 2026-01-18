@@ -13,3 +13,5 @@ Light and mood: subtle screen/neon glow, no strong reflections or realistic rend
 ​
 
 Optionally, very reduced, semi‑transparent shapes can appear in the background that evoke crypto charts or data (e.g. 1–2 stylized financial OHLC-candlesticks, a calm curve, or suggested nodes), but they must never overlay or distract from the central symbol. No complete charts, no text blocks, only symbolic hints.
+
+All **candlestick charts must be financially correct and realistic**: green candles represent upward price movement (close higher than open) and red candles represent downward movement (close lower than open), with clearly defined bodies and wicks reflecting proper OHLC structure; no inverted color logic, no monochrome candles, no abstract styling, and no decorative or misleading visuals—the chart should read instantly as a real market chart to any trader.

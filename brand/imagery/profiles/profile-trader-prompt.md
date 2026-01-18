@@ -28,6 +28,8 @@ Messy wears a **refined, modern, elegant, slightly sexy outfit that clearly sign
 
 **In her hands**: She wears a **wireless headset** and holds an **iPad or tablet screen facing outward to the viewer**. She positions the tablet as a visual aid for her advice, making sure the viewer sees the **financial candlestick chart** on the screen. The chart shows a short- or medium-term timeframe with **clear levels and support/resistance marks**—clean, uncluttered, and serving as the evidence for her consulting advice.
 
+All **candlestick charts must be financially correct and realistic**: green candles represent upward price movement (close higher than open) and red candles represent downward movement (close lower than open), with clearly defined bodies and wicks reflecting proper OHLC structure; no inverted color logic, no monochrome candles, no abstract styling, and no decorative or misleading visuals—the chart should read instantly as a real market chart to any trader.
+
 ## Visual Tone & Composition
 
 The overall feel should be: **"a sharp, disciplined trader executing from a position of luxury at peak market hours,"** with energy and focus but no panic or hesitation. Messy is the still point above the roaring pit, the strategist who always knows what to do next.

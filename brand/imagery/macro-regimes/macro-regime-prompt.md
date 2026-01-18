@@ -7,6 +7,8 @@ Messy is sitting or standing centrally in a very modern, slightly futuristic off
 ​
 
 The overall scene is rather dark, with a poppy-punk mood and subtle neon colors in blue, pink, and violet, but not too bright. The background is partly photorealistic: glass walls, city lights at night, abstract charts and symbols for macroeconomics and crypto (candlestick charts, yield curves, percent signs, stylized coin icons) as partly drawn, partly holographic overlays. These macro/crypto symbols may float around her in a chaotic, noisy and slightly overloaded way, while Messy herself appears calm and harmonious in the center of the image.
+
+All **candlestick charts must be financially correct and realistic**: green candles represent upward price movement (close higher than open) and red candles represent downward movement (close lower than open), with clearly defined bodies and wicks reflecting proper OHLC structure; no inverted color logic, no monochrome candles, no abstract styling, and no decorative or misleading visuals—the chart should read instantly as a real market chart to any trader.
 ​
 
 Messy wears a simple, modern, elegant and slightly sexy outfit that fits a professional crypto trader, e.g. an off-shoulder or slightly low-cut top with minimal accessories; no overly revealing clothing.

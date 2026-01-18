@@ -8,6 +8,8 @@ The overall scene is rather dark, with a poppy-punk mood and subtle neon accents
 
 There are a few abstract charts and symbols for macroeconomics, trading, and crypto (simple candlestick charts, smooth yield or price curves, percent and fictive currency signs) rendered as partly drawn, partly holographic overlays. These elements are smoothly integrated into the surroundings, glass reflections, screens, or office signage around Franco; they should not appear as big, separate floating UI blocks. They must stay sparse, subtle, and non-dominant so the scene feels rich yet uncluttered, with complexity increasing slightly toward the edges while Franco remains the calm, harmonious focal point in the center.
 
+All **candlestick charts must be financially correct and realistic**: green candles represent upward price movement (close higher than open) and red candles represent downward movement (close lower than open), with clearly defined bodies and wicks reflecting proper OHLC structure; no inverted color logic, no monochrome candles, no abstract styling, and no decorative or misleading visuals—the chart should read instantly as a real market chart to any trader.
+
 Franco wears a simple, modern, elegant and slightly sexy outfit suitable for a professional in high-end finance/tech/crypto, such as a slim-fit dress shirt with the top button casually open, or a sharp, well-tailored blazer over a plain shirt, with minimal accessories; no overly revealing or overly muscular clothing emphasis.
 
 Expression: relaxed, wise, awake, enjoying what he's doing, confident.
