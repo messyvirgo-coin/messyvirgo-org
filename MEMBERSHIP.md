@@ -2,22 +2,20 @@
 
 This repository is public, but it represents Messy Virgo’s **association-level** artefacts. **Association members** are the primary contributors to changes in this repo.
 
-### How to become a member (fill in)
+## How to become a member
 
-Add your real membership process here. Common options:
+Membership is coordinated by the association. If you would like to join, email:
 
-- Join via a form on `messyvirgo.com` (link it here)
-- Join by contacting the association at an official email address
-- Join after participating for a period of time and being approved by existing members
+- `contact@messyvirgo.com`
 
-### Member sponsorship (optional)
+Please include a short introduction, your relevant context, and how you’d like to contribute.
+
+## Member sponsorship (optional)
 
 If you want to allow non-members to contribute via PRs, a simple model is:
 
 - A maintainer/member “sponsors” the PR (takes responsibility for it and shepherds it through review).
 
-### Contacts (fill in)
+## Contacts
 
 - **Membership/contact email**: `contact@messyvirgo.com`
-
-

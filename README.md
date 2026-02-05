@@ -90,10 +90,13 @@ We aim for transparent, documented decisions:
 
 ## License
 
-Unless otherwise noted, this repository is licensed under **CC BY-NC 4.0** (see [LICENSE](./LICENSE)). **Commercial reuse is not permitted.**
+Unless otherwise noted:
+
+- **Documentation/text** is licensed under **CC BY 4.0** (reuse permitted with attribution). See [LICENSE](./LICENSE).
+- **Brand assets** in `brand/` are not covered by the documentation license. Community non-commercial use is allowed; **commercial use requires permission**. See [BRAND.md](./BRAND.md) and [brand/USAGE.md](./brand/USAGE.md).
 
 Note: project names and logos may be protected by trademark laws; the license does not grant trademark rights. For brand usage guidelines, see [BRAND.md](./BRAND.md).
 
 ## Security
 
-Security reporting is handled via the organization-wide policy in the `.github` repository. If you’re unsure where to report, email `contact@messyvirgo.com`.
+If you discover a security issue or an accidental disclosure in this repository, email `contact@messyvirgo.com`.

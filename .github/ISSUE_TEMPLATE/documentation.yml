@@ -1,0 +1,34 @@
+name: Documentation improvement
+description: Suggest an edit, correction, or new org artefact
+title: "Docs: <short summary>"
+labels:
+  - documentation
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve Messy Virgo’s public transparency repo.
+
+        Please avoid posting secrets, personal data, or sensitive disclosures here.
+        For sensitive disclosures, email contact@messyvirgo.com.
+  - type: input
+    id: affected_paths
+    attributes:
+      label: Affected file(s) / path(s)
+      placeholder: e.g. legal/terms-of-use.md, BRAND.md
+    validations:
+      required: false
+  - type: textarea
+    id: change
+    attributes:
+      label: What should change?
+      description: Describe the problem and your proposed wording.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context (optional)
+      description: Links, references, or rationale.
+    validations:
+      required: false

@@ -1,21 +1,31 @@
-Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+# License (mixed)
 
-This repository’s contents are licensed under the Creative Commons
-Attribution-NonCommercial 4.0 International license.
+This repository is public for transparency and version history. To make reuse clear and safe, we apply **different terms** to different parts of the repo.
 
-You are free to:
-- Share — copy and redistribute the material in any medium or format
-- Adapt — remix, transform, and build upon the material
+## 1) Documentation license (most text)
 
-Under the following terms:
-- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-- NonCommercial — You may not use the material for commercial purposes.
+Unless otherwise noted, **documentation and text content** in this repository is licensed under:
 
-Notices:
-- No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-- This summary is not a substitute for the license.
+- **Creative Commons Attribution 4.0 International (CC BY 4.0)**
+- License text: `https://creativecommons.org/licenses/by/4.0/`
+- Legal code: `https://creativecommons.org/licenses/by/4.0/legalcode`
 
-Full license text (legal code):
-`https://creativecommons.org/licenses/by-nc/4.0/legalcode`
+You may copy, redistribute, and adapt the text (including for commercial use) **as long as you provide attribution** and indicate changes.
 
+## 2) Brand assets (logos, icons, imagery)
 
+Files under `brand/` (including logos, icons, and imagery) are **not** licensed under CC BY 4.0 unless explicitly stated.
+
+- **Community use (non-commercial)**: allowed (e.g., community posts/pages) if you do not imply endorsement.
+- **Commercial use**: requires written permission.
+- Permission requests: `contact@messyvirgo.com`
+
+See [BRAND.md](./BRAND.md) and `brand/` for guidelines.
+
+## 3) Trademarks / no endorsement
+
+This license does **not** grant trademark rights. You may not represent your fork, copy, or derivative as official Messy Virgo material, or act “on behalf of” Messy Virgo, without permission.
+
+## 4) Third-party content
+
+Any third-party materials included in this repo (if any) remain subject to their original terms.
