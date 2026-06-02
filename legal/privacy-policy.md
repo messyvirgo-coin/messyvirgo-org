@@ -2,7 +2,7 @@
 
 **Last Updated:** February 2, 2026
 
-**Data Controller:** Messy Virgo DAO, 8000 Zürich, Switzerland | [legal@messyvirgo.com](mailto:legal@messyvirgo.com)
+**Data Controller:** Messy Virgo DAO, Europastrasse 13, 8152 Glattbrugg, Switzerland | [legal@messyvirgo.com](mailto:legal@messyvirgo.com)
 
 ## Overview
 

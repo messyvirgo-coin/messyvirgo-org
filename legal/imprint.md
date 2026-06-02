@@ -12,11 +12,13 @@ Messy Virgo DAO
 Non-profit association under Swiss Civil Code Articles 60-79
 
 **Registered Seat:**  
-Zürich, Switzerland
+Glattbrugg, Canton of Zurich, Switzerland
 
 **Address:**  
-Messy Virgo DAO  
-8000 Zürich  
+Messy Virgo DAO
+c/o Wigra Treuhand AG
+Europastrasse 13
+8152 Glattbrugg
 Switzerland
 
 **Contact:**  

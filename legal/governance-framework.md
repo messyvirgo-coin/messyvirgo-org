@@ -20,7 +20,7 @@ MESSY operates through dual-layer governance:
 
 **Name:** Messy Virgo DAO  
 **Form:** Swiss non-profit association (Art. 60-79 ZGB)  
-**Seat:** Zürich, Switzerland  
+**Seat:** Glattbrugg, Canton of Zurich, Switzerland  
 **Founded:** January 4, 2026  
 **Purpose:** Execute community decisions, manage treasury, represent MESSY legally
 
